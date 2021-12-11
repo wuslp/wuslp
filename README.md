@@ -3,7 +3,7 @@
 ☀️ Hello world ! 
 
 - 🌱 I'm addicted to learning and growing every day
-- 📝 I'm currently sharing a little bit of my knowledge to the world through my blog
+- ✏️ I'm currently sharing a little bit of my knowledge to the world through my blog
 
 
 ### 🔨 Skill 
